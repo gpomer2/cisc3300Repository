@@ -1,0 +1,5 @@
+1. Interpreter, interpreted
+2. Dynamic
+3. Type Juggling/Coercion
+4. Non-primitive
+5. Strict Equal ( === )

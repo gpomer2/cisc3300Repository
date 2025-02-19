@@ -1,0 +1,19 @@
+1. HTML is a strucutre that gives users functionality to interact with. Structure of a web page 
+   and the elements that users can interact with.
+
+2. The top of the page is the most relevant news at fordham right now for people interested in
+   learning about it, this is year 100 of the rose hill gym. The front pictures is an 
+   engaging picture and fact about the rose hill gym tradition as well as the option to learn 
+   more. Underneath is more news, and the fordham values and events. At the top bar of the page
+   is all of the navigation options, making it east to reach different parts of the website.
+
+3. An html element is a collection of start and end tags with the content inserted between
+   them. A tag is a container of content. An attribute is information about the contents of an
+   element, they have names and value.
+
+4. Semantic elements are inteneded to convey meaning by their element type. Structural elements
+   with meaning have an effect on the structure of a page but dont convery any meaning by their
+   element type.
+
+5. Submit a url.
+

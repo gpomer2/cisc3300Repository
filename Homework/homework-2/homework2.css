@@ -1,0 +1,83 @@
+body{
+    font-family: "Noto Sans", serif;
+}
+
+.header{
+  font-size: large;
+  padding: 5%;
+  background-color: cornflowerblue;
+  width: 100%;
+  color:pink;
+  text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: pink;
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 10px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: cornflowerblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #dea4cb;
+  }
+
+
+
+
+.Form1{
+    display: flex;
+    justify-content: center;
+}
+
+    .Form1 form{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Form1 input{
+        width: 150px;
+        padding: 3px;
+        margin-bottom: 4px;
+        border: 1px solid orangered;
+        border-radius: 5px;
+    }
+
+
+.firstBlock{
+    text-align: center;
+    font-size: medium;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.secondBlock{
+  text-align: center;
+  font-size: small;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 10%;
+}

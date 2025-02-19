@@ -1,0 +1,21 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: coral;
+}
+
+.flex-container > div{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    font-size: large; 
+
+}
+
+@media screen and (max-width: 500px){
+    .flex-container{
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,26 @@
+1. The ________ represents the document as nodes and objects; that way, programming languages can interact with the page.
+
+ANS: DOM
+
+2. To select a dom element by its id we can use _________.
+
+ANS: getElementById
+
+3. If you add HTML to a page using innerHTML (or several jQuery methods), you need to be aware of ________ otherwise, an attacker could gain access to your users' accounts.
+
+ANS: XSS attacks
+
+4. HTML events are ________ that happen to HTML elements.
+
+ANS: Things
+
+5. ________ are a more recent approach to handling events. They can deal with more than one function at a time
+
+ANS: Event Listeners
+
+
+
+6. Create a webpage with a div element with the text “initial text”. When the div is clicked,replace the text with “added text!” and set a style attribute to set the background color to yellow.
+
+7. Include a screenshot of the output of the MAMP/XAMPP resource with the page showing
+“/test”.

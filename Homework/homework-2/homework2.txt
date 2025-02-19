@@ -1,0 +1,20 @@
+ID attribute is used to specify a unique id for an HTML element. Specifies a unique id for an HTML element. The value of the id attributes mus be unique within the HTML document. 
+Class attribute is used to specify a class for an HTML element. Multiple HTML elements can share the same class.
+Both are often used by JavaScript to access and manipulate elements with the specific id/class name.
+A selector and a declaration. 
+Important: important keyword trumps everything
+Specificity: if there are two or more CSS rules that point to the same element, the selector with the highest specificity will “win”, and its style declaration will be applied to that HTML element.
+Inheritance: A child element will naturally inherit properties from its parent element.
+Last rule: If there are two or more CSS rules that point to the same element and they are equally specific, the rule applied last with “win”.
+Inline: Displays an element as an inline element. Any height and width properties will have no effect. This is the default.
+Block: Displays an element as a block element. It starts on a new line, and takes up the whole width.
+Inline-block: Displays an element as an inline-level block container. The element itself is formatted as an inline element, but you can apply height and width values.
+
+
+Border: Every box has a border. The border separates the edge of one box from another.
+Styling: Width, style, color, shorthand.
+Margin: Margins sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
+Controls the gap between boxes.
+Padding: Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its content.
+Allows you to specify how much space should appear between the content of an element and its border.
+

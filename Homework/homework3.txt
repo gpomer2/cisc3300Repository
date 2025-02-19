@@ -1,0 +1,8 @@
+1. Compare and contrast Flexbox and CSS grid, how are they alike and how are they
+different?
+Flexbox is one dimensional, helpful in aligning items in a container.
+CSS grid is two dimensional, helpful when designing a web page without having to use floats and positioning.
+
+2. What’s responsive design in web development and how do we implement it?
+Using HTML and CSS to automatically change a websites appearance depending on screen size. Use media queries, set a max width, if width is smaller it will have a different design.
+
