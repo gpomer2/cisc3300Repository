@@ -1,0 +1,29 @@
+CISC 3300 F24
+In class assignment 11
+1. _______ is a lightweight, "write less, do more", JavaScript library
+
+ANS: jQuery
+
+2. _______ makes our lives easier when doing common HTML/CSS/JS tasks.
+
+ANS: jQuery
+
+3. _______ allows web pages to be updated asynchronously by exchanging data with a web
+server behind the scenes.
+
+ANS: AJAX
+
+4. _______ how the internet handles communication between clients and servers, is done by
+requests and responses.
+
+ANS: HTTP
+
+5. _______ is a text-based data format following JavaScript object syntax.
+
+ANS: JSON
+
+6. _______ is a way for two or more computer programs or components to communicate with
+each other.
+
+ANS: API
+
