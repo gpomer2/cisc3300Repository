@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <h1>Click the button to fetch data from the server</h1>
+    <button id="fetchData">Fetch Data</button>
+
+    <script>
+        $(document).ready(function() {
+            $("#fetchData").click(function() {
+                $.ajax({
+                    url: "in-class-11.php",
+                    type: "GET",       
+                    dataType: "json",  
+                    success: function(response) {
+                        console.log("Server Response:", response);
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Error:", status, error);
+                    }
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>
