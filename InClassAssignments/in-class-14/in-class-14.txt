@@ -1,0 +1,22 @@
+1. Objects in PHP use the ______ syntax to access object properties and methods.
+
+ANS: this->
+
+2. The _______ of a property, a method or a constant can be defined by prefixing the declaration with the keywords public, protected or private.
+
+ANS: Visibility
+
+3. When a class derives from another class: _______
+
+ANS: Inheritance
+
+4. ________ allows objects of different classes to respond differently based on the same message.
+
+ANS: Polymorphism
+
+5. ________ allow the PHP interpreter to tell the difference between two classes, functions, or constants that share the same name.
+
+ANS: Namespaces
+
+6. Create a new PHP project with an index.php and .htaccess file. Create a PHP class to represent an item to be purchased from your fake business, include a method to return a json encoded associative array of data regarding the item. From index.php require the file of the class and include the namespace for the created class. Echo the output of the
+class method.
