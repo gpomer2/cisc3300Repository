@@ -1,0 +1,23 @@
+1. a website can tell a browser to store data about the user and their visit in a text file called a ______
+
+ANS: cookie
+
+2. each time the browser requests another page from that domain, the browser sends the data in the cookie back to the ______
+
+ANS: server
+
+3. browsers only send data in a cookie to a server when it is requesting data from the same _______ that set it
+
+ANS: domain
+
+4. Sessions store information about a user and their preferences on the ______.
+
+ANS: server
+
+5. ______ are thrown - they are intended to be caught. _______ are generally unrecoverable
+
+ANS: Exceptions, errors
+
+6. Create some kind of expectation in a try block, throw an exception with a custom message in the catch block.
+
+7. Send the URL of your forked final project repo.

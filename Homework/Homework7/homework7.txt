@@ -1,0 +1,31 @@
+1.  Class: temoplate for creating objects. 
+    Object: Instance of a Class
+    OOP: Object-oriented-programming, organizing code into reusable objects.
+
+2. Allow the parent to create defaults for methods.
+
+3. Predefined variables in PHP, available in all scopes. $_GET, $_POST.
+
+4. namespace keyword declares the namespace of a class, use keyword to use teh namespace of another class.
+
+5. Architectural pattern that separates an aplication into three main logical components: Model, View, and Controller.
+
+6. If I had a resource called users in my application that was designed with RESTFUL URI design, what would the URI and HTTP verbs be for:
+a. getting all users
+GET /users
+
+b. getting one users
+GET /users/id
+
+c. saving a user
+POST /users
+
+d. editing a user
+Put /users/id
+
+e. deleting a user
+DELETE /users/id
+
+7. Create a PHP project in an MVC style. It should have the ability to submit a new note resource, a note should have a title and a description. The title of the note should be more than 3 characters long and the description should be more than 10 characters long. Any special characters should be converted to HTML entities. On the frontend
+show a success message if the request is successful and an error message if anything is wrong. Add some basic styling.
+a. no need for a model class, the validation can happen in a controller method.
