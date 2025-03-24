@@ -1,0 +1,24 @@
+ 
+1. SQL ______ are the established associations between two or more tables. 
+
+ANS: Relationships
+
+2. For every record in the primary table, there are one or more related records in the foreign table: ________ 
+
+ANS: One-to-many
+
+3. The _______ keyword allows you to request data from more than one table 
+
+ANS: join
+
+4. The ______ returns all records from the left table (table1), and the matching records from the right table 
+
+ANS: left join... 
+
+5. An aggregate function is a function that performs a calculation on a set of values, and returns a single value. 
+
+ANS: 
+
+6. Make a new database called in_class_17. In it create tables called users and userComments. Give them columns that you might think they would need and include a foreign key on userComments that will reference the primary key of the users table. Give the tables some testing data to create multiple users and user comments for some of the users(but not all). 
+a. Write a query to return all users and their comments if they have comments or not. 
+b. Write a query to return all users and their comments only if they have comments.
