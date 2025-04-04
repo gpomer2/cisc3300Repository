@@ -1,0 +1,20 @@
+1. What are relationships in SQL? Joins? 
+
+ANS: Structure that allows us to iderntify and access data in relation to another piece of data in the database.
+
+2. How do joins and relationships interact? 
+
+ANS: A join allows you to request data from more than one table. Keys describe how data can relate to data in a row in another table. Joins are how we implement relationships.
+
+
+3. What’s a PDO? a DSN? 
+
+ANS: PHP Data Objects, Data Source Name
+
+4. What are prepared statements? Why do we need them? 
+
+ANS: An sql query with parameters. Forces the developer to write the sql command and the user provided data separately, prevents sql injection vulnerablities. 
+
+5. What does an .env file do? 
+
+ANS: Contains the environment variables, stays hidden.

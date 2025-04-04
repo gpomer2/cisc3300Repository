@@ -1,0 +1,23 @@
+CISC 3300 SP25 
+In class assignment 19 
+1. A built in class that comes packaged with PHP to make it very easy for you to interact with databases, represents and manages the connection to the database: ________ 
+
+ANS: PDO
+
+2. The_______ is a string that contains information about our connection to the database 
+
+ANS: DNS
+
+3. In homeworks going forward/final project it will be a deduction of points if you submit ______!!! 
+
+ANS: .env file or the information intended to be on it.
+
+4. ______ is a parameterized and reusable SQL query which forces the developer to write the SQL command and the user-provided data separately. 
+
+ANS: Prepared statement
+
+5. A ______ is when a hacker tries to run malicious sql code in a database. 
+
+ANS: SQL Injection
+
+6. Create a PHP application that when a URI of /posts is visited in a browser, data from a posts MySQL table is returned as JSON(Make a posts table with appropriate columns and inject some data). Be sure to make an .env file to store your db credentials and to not submit the .env by using a .gitignore file.
